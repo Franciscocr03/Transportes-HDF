@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Transportes-HDF/static/css/main.b867a41b.css",
+    "main.js": "/Transportes-HDF/static/js/main.983f1743.js",
+    "static/js/787.fd7c952d.chunk.js": "/Transportes-HDF/static/js/787.fd7c952d.chunk.js",
+    "index.html": "/Transportes-HDF/index.html",
+    "main.b867a41b.css.map": "/Transportes-HDF/static/css/main.b867a41b.css.map",
+    "main.983f1743.js.map": "/Transportes-HDF/static/js/main.983f1743.js.map",
+    "787.fd7c952d.chunk.js.map": "/Transportes-HDF/static/js/787.fd7c952d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b867a41b.css",
+    "static/js/main.983f1743.js"
+  ]
+}
